@@ -40,5 +40,5 @@ The **Blood Donation Management System** is a web-based application designed to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/blood-donation-system.git
-   cd blood-donation-system
+   git clone https://github.com/your-username/Blood-Donation.git
+   cd Blood-Donation
